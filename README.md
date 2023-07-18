@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josuearreaga&label=Profile%20views&color=0e75b6&style=flat" alt="josuearreaga" /> </p>
 
-- 🔭 I’m currently working as a SWE Intern at Omnics Informatatics
+- 🔭 I’m currently working as a SWE Intern at Omnics Informatics
 
 - 🌱 I’m currently learning **Graph Theory Algorithms**
 
