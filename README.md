@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **josue.arreaga001@gmail.com**
 
-- 📄 Know about my experiences [https://josuearreaga.github.io/pdf/JosueArreagaResume.pdf](https://josuearreaga.github.io/pdf/JosueArreagaResume.pdf)
+- 📄 Know about my experiences [https://josuearreaga.github.io/pdf/Josue_Arreaga_Resume.pdf](https://josuearreaga.github.io/pdf/Josue_Arreaga_Resume.pdf)
 
 - ⚡ Fun fact **I am self taught on Mobile Development, Game Development, Web Development and Data Structures**
 
