@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://josuearreaga.github.io/]
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/josue-arreaga/]
-
 - 📫 How to reach me **josue.arreaga001@gmail.com**
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/josue-arreaga/]
 
 - 📄 Know about my experiences [https://josuearreaga.github.io/pdf/Josue_Arreaga_Resume.pdf]
 
