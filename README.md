@@ -8,13 +8,13 @@
 
 - 🌱 I’m fascinated by **Advanced Algorithms, LLM's, AI**
 
-- 👨‍💻 All of my projects are available at [https://josuearreaga.github.io/](https://josuearreaga.github.io/](https://josuearreaga.github.io/](https://josuearreaga.github.io/)
+- 👨‍💻 All of my projects are available at [https://josuearreaga.github.io/]
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/josue-arreaga/](https://www.linkedin.com/in/josue-arreaga/](https://www.linkedin.com/in/josue-arreaga/](https://www.linkedin.com/in/josue-arreaga/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/josue-arreaga/]
 
 - 📫 How to reach me **josue.arreaga001@gmail.com**
 
-- 📄 Know about my experiences [https://josuearreaga.github.io/pdf/Josue_Arreaga_Resume.pdf](https://josuearreaga.github.io/pdf/Josue_Arreaga_Resume.pdf)
+- 📄 Know about my experiences [https://josuearreaga.github.io/pdf/Josue_Arreaga_Resume.pdf]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
