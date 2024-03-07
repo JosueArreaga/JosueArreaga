@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josuearreaga&label=Profile%20views&color=0e75b6&style=flat" alt="josuearreaga" /> </p>
 
-- 🔭 I’m currently working as a SWE Intern at Omnics Informatics
+- 🔭 I’m currently working as a SWE Researcher at Florida International University
 
-- 🌱 I’m currently learning **Graph Theory Algorithms**
+- 🌱 I’m currently learning **React Native For Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://josuearreaga.github.io/](https://josuearreaga.github.io/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://josuearreaga.github.io/pdf/JosueArreagaResume.pdf](https://josuearreaga.github.io/pdf/JosueArreagaResume.pdf)
 
-- ⚡ Fun fact **I am self taught on Mobile Development, Game Development, and Web Development**
+- ⚡ Fun fact **I am self taught on Mobile Development, Game Development, Web Development and Data Structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
